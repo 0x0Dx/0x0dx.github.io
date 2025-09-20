@@ -17,8 +17,7 @@ I have build this project to share all my projects in one place.
 - Built using [Hugo](https://github.com/gohugoio/hugo)
 - Using the [Blowfish](https://github.com/nunocoracao/blowfish) theme
 - Contents are written in markdown
-- Images stored in an `img` folder
 
-![Portfolio Screenshot](img/portfolio.png "Portfolio Screenshot")
+![Portfolio Screenshot](featured.png "Portfolio Screenshot")
 
 This project is ongoing — I plan to add more work, include interactive demos, and make it fully mobile-friendly.

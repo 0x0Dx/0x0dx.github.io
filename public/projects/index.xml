@@ -19,7 +19,7 @@
       <guid>http://localhost:1313/projects/portfolio/</guid>
       <description>&lt;p&gt;This is my personal portfolio project — a place where i will showcase my work and experiments.&lt;/p&gt;
 &lt;p&gt;I have build this project to share all my projects in one place.&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/portfolio/featured.png" />
     </item>
     
   </channel>

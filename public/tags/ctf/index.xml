@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0x0D</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on 0x0D</description>
+    <title>Ctf on 0x0D</title>
+    <link>http://localhost:1313/tags/ctf/</link>
+    <description>Recent content in Ctf on 0x0D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>coming@soon (0x0D)</managingEditor>
     <webMaster>coming@soon (0x0D)</webMaster>
     <copyright>© 2025 0x0D</copyright>
-    <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>My Portfolio</title>
-      <link>http://localhost:1313/projects/portfolio/</link>
-      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <author>coming@soon (0x0D)</author>
-      <guid>http://localhost:1313/projects/portfolio/</guid>
-      <description>&lt;p&gt;This is my personal portfolio project — a place where i will showcase my work and experiments.&lt;/p&gt;
-&lt;p&gt;I have build this project to share all my projects in one place.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/portfolio/featured.png" />
-    </item>
+    <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>OverTheWire: Bandit</title>
