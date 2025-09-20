@@ -15,7 +15,7 @@ enableCodeCopy = true
 
 replyByEmail = false
 
-mainSections = ["docs"]
+mainSections = ["projects"]
 # robots = ""
 
 disableImageOptimization = false
@@ -37,22 +37,22 @@ smartTOCHideUnfocusedChildren = false
 fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
-  layout = "custom" # valid options: page, profile, hero, card, background, custom
-  # homepageImage = "/img/iceland.jpg" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 12
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  # homepageImage = "/img/logo.png" # used in: hero, and card
+  showRecent = true
+  showRecentItems = 6
   showMoreLink = true
-  showMoreLinkDest = "docs"
+  showMoreLinkDest = "projects"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -83,8 +83,8 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 9
-  showTaxonomies = true 
-  showAuthorsBadges = true 
+  showTaxonomies = true
+  showAuthorsBadges = true
   showWordCount = false
   sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email", "line"]
   showZenMode = true
@@ -129,7 +129,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
-  
+
 [firebase]
   #apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
   #authDomain = "blowfish-21fff.firebaseapp.com"
@@ -155,11 +155,11 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # enableTrackEvent = false
 
 [buymeacoffee]
-  identifier = "nunocoracao"
-  globalWidget = true
-  globalWidgetMessage = ""
-  globalWidgetColor = "#FFDD00"
-  globalWidgetPosition = "Right"
+#  identifier = "nunocoracao"
+#  globalWidget = true
+#  globalWidgetMessage = ""
+#  globalWidgetColor = "#FFDD00"
+#  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""

@@ -6,10 +6,21 @@
     <description>Recent content on 0x0D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2025 Blowfish</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>coming@soon (0x0D)</managingEditor>
+    <webMaster>coming@soon (0x0D)</webMaster>
+    <copyright>© 2025 0x0D</copyright>
+    <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Portfolio</title>
+      <link>http://localhost:1313/projects/portfolio/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <author>coming@soon (0x0D)</author>
+      <guid>http://localhost:1313/projects/portfolio/</guid>
+      <description>&lt;p&gt;This is my personal portfolio project — a place where i will showcase my work and experiments.&lt;/p&gt;
+&lt;p&gt;I have build this project to share all my projects in one place.&lt;/p&gt;</description>
+      
+    </item>
     
   </channel>
 </rss>
