@@ -59,21 +59,21 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
-  showDate = false
+  showDate = true
   showViews = false
   showLikes = false
   showDateOnlyInArticle = false
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
-  # showAuthorBottom = false
-  showHero = true
+  showAuthorBottom = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  editURL = "https://github.com/0x0Dx/0x0dx.github.io/tree/main/content"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
@@ -85,7 +85,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   relatedContentLimit = 9
   showTaxonomies = true
   showAuthorsBadges = true
-  showWordCount = false
+  showWordCount = true
   sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email", "line"]
   showZenMode = true
 
@@ -131,13 +131,13 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   cardViewScreenWidth = false
 
 [firebase]
-  #apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
-  #authDomain = "blowfish-21fff.firebaseapp.com"
-  #projectId = "blowfish-21fff"
-  #storageBucket = "blowfish-21fff.appspot.com"
-  #messagingSenderId = "60108104191"
-  #appId = "1:60108104191:web:039842ebe1370698b487ca"
-  #measurementId = "G-PEDMYR1V0K"
+#  apiKey = "AIzaSyCmOhhJBLdaFFs4rwzKwuXZDq8Lt489rtg"
+#  authDomain = "oxod-portfolio.firebaseapp.com"
+#  projectId = "oxod-portfolio"
+#  storageBucket = "oxod-portfolio.firebasestorage.app"
+#  messagingSenderId = "400845176531"
+#  appId = "1:400845176531:web:ebb0dcf2cd8d428606de26"
+#  measurementId = "G-D2Q94RYDMQ"
 
 [fathomAnalytics]
   # site = "ABC12345"
